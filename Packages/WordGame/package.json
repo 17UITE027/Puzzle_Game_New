@@ -1,0 +1,15 @@
+{
+    "name": "com.wordgame.wordgame-tools",
+    "version": "1.0.0",
+    "displayName": "Word Game Tools",
+    "description": "",
+    "unity": "2022.3",
+    "dependencies": {
+     },
+     "keywords": ["tools", "extensions", "word game"],
+     "author": { 
+        "name": "Rathina Mala",
+        "email": "sonarathi1999@gmail.com",
+        "url": "https://github.com/17UITE027/WordGame"
+     }
+}

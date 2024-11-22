@@ -1,0 +1,1548 @@
+fileFormatVersion: 2
+guid: c7efcd75dc15a7e43a7f07920b7a6d9b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1024
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6748.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa29629a254e68d409b39abe3638abd7
+      internalID: -790422205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 6748.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9a25d8e034b90439fed02f0c398e00
+      internalID: 1402437122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_2
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 6748.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33431f03b6ec48a46ba084c8a1a13abf
+      internalID: -1513283416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_3
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 6748.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bed698d22175564bacbbf5c1e6b5463
+      internalID: -374230407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6299.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08b15e3191280746a7ad65062d6cd45
+      internalID: -19298554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_5
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 6299.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fe053dac5129f43a5ea27a4ca88aa1
+      internalID: 1805007789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_6
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 6299.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f262dd37b99624fb0394835ce4d06b
+      internalID: 1614111257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_7
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 6299.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6d6ebe71a5d8446977246806ae8280
+      internalID: 1165164602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5850.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2411c2f22ad8c9a4d920ec639ef11940
+      internalID: -1846741976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_9
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 5850.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539f0ddb140413d4ea87b8b125e93f9f
+      internalID: -461229868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_10
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 5850.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b15994206def242b35f989535a08c9
+      internalID: -113921376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_11
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 5850.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bffea985ea40647bce2dfc0119dfb5
+      internalID: -906140670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5401.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3e58b85a5b57e4b9c163aecf1a1a05
+      internalID: -647833809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_13
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 5401.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85af433b43a5cc849bb01bb36c73fd95
+      internalID: -912960153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_14
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 5401.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c5dc5baa13d014bab2317d0ae17612
+      internalID: -1515661275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_15
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 5401.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa90ba763fcdfb40959606100592796
+      internalID: 802168280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4952.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141d5521c7a14c9448307591fa89870a
+      internalID: 214946954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_17
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4952.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d261c36e8d4f36241ae30b09cf1b3121
+      internalID: -338365392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_18
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4952.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02422aa18da0294c8a610e2c13799bb
+      internalID: -1482654654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_19
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4952.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6193b1205996ed448490c20a4ee9f1a
+      internalID: 544251132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4503.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2601147543933f144a4ce17df337c6b3
+      internalID: 1618141589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4503.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715a66834b3ac624f8648c77341838ce
+      internalID: 1715043247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_22
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4503.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00576bba58d9334baf467662eb6fcf8
+      internalID: 945349492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_23
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4503.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d51e8b08972d249ad1ea4dd023ce81
+      internalID: 650235626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4054.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3d28f1e6a619f4d88437733e7a31ae
+      internalID: 2100257301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_25
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4054.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad4a46bc8275b84eb12a6f18ef5797c
+      internalID: 370179314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_26
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4054.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6e64892165a9d42b84ca348e61efe1
+      internalID: 804365762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_27
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4054.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbe5392c9ecd594aac474a553d18613
+      internalID: 1503951124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3605.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f408b9e9755ffa4094c78f538e44076
+      internalID: -570153894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_29
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3605.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec6c8f6182a1ee4e9709a33e020c239
+      internalID: -618288437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_30
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3605.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf82d44cbae6a44da88c2ecccb70e89
+      internalID: -1937128378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_31
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3605.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b389b7ccd81630f4aaeeb2171318f4e8
+      internalID: 2099396433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3156.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cb1aa5f0d0b8e469e6b303094b0a7c
+      internalID: -861035777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_33
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3156.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7d009a63c0cfd47a2613ed7fd0676d
+      internalID: 686206985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_34
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3156.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63971edc6dd8c9e43852b40449315a7d
+      internalID: -401172901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_35
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3156.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da58602340924145adc1df3166be8dd
+      internalID: 249548622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2707.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad059c7f50cbfe1419b21e1f7953cdb1
+      internalID: -2142599579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_37
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2707.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8f5bd6896ca6b4993560c253475b4f
+      internalID: -57986069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_38
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2707.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b35a0322dfdca46800daa48c31046b
+      internalID: -1853327151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_39
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2707.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e840b926771d44580571d48617d692
+      internalID: -1549679226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2258.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a246d79a8369cfb4484f6fa176bf21c4
+      internalID: 573764025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_41
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2258.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b24c852abc87c44aa863cae4c99ac5
+      internalID: 1976741962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_42
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2258.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d004c3813a7a6f249b208928f372f191
+      internalID: -1008622656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_43
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2258.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aceaca99a9986fa44a34f98c3e936f46
+      internalID: 1165154383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1809.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569da32952c9a624c88acdea8c64b2c0
+      internalID: -1014040304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_45
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1809.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f0cd52580175a4584c6299b9e79e05
+      internalID: 1089081524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_46
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1809.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 945bd540456d8de439da53408f612f63
+      internalID: 1565483550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_47
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1809.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166db3cf6d8140248a28dccb136ae3c3
+      internalID: -1923072038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1360.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86a84fef0daf3e42b7965de1e5ab78b
+      internalID: 437312608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_49
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1360.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cea014cf10263e4d89a171a160d76a0
+      internalID: 1315877488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_50
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1360.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d11f18f46a9af47bb39fa20d3ef6b2
+      internalID: -497216489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_51
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1360.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c8054adfe730948943fdefd2004ae8
+      internalID: 254463886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 911.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9bef708689c2047b6487702737c4aa
+      internalID: -1490986384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_53
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 911.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7a7980a35928247bd833fa59fa78bc
+      internalID: 1025478247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_54
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 911.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee935b8b8b1e7b04dbb9869ebf141222
+      internalID: -114602732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_55
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 911.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bcd5de1fa1fa4d44be8b178c927cdcd
+      internalID: 695780007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 462.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e507e06a2fd7f9845adc351728afa8ec
+      internalID: 1600726031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_57
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 462.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f681db36cec70f499c7e5cb0343b3a5
+      internalID: -28449167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_58
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 462.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747f8a2490b089948930ca80ccaa4d81
+      internalID: 819786758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_59
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 462.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93c960b355b9374fa1ac49394654309
+      internalID: -726495776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1ae2c459c448e47a8e65f73d7366bc
+      internalID: -831219946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_61
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 13.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c29d2d63c9c414084dca16258e783a
+      internalID: -1541977672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_62
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 13.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3624263d2a565aa4999522719dbdc1fa
+      internalID: 640707905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: castle-4354-ezgif.com-crop (2)_63
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 13.125
+        width: 800
+        height: 449.875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1d72d7e3543544ab02e87b7d42c84e
+      internalID: -1992561697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      castle-4354-ezgif.com-crop (2)_0: -790422205
+      castle-4354-ezgif.com-crop (2)_1: 1402437122
+      castle-4354-ezgif.com-crop (2)_10: -113921376
+      castle-4354-ezgif.com-crop (2)_11: -906140670
+      castle-4354-ezgif.com-crop (2)_12: -647833809
+      castle-4354-ezgif.com-crop (2)_13: -912960153
+      castle-4354-ezgif.com-crop (2)_14: -1515661275
+      castle-4354-ezgif.com-crop (2)_15: 802168280
+      castle-4354-ezgif.com-crop (2)_16: 214946954
+      castle-4354-ezgif.com-crop (2)_17: -338365392
+      castle-4354-ezgif.com-crop (2)_18: -1482654654
+      castle-4354-ezgif.com-crop (2)_19: 544251132
+      castle-4354-ezgif.com-crop (2)_2: -1513283416
+      castle-4354-ezgif.com-crop (2)_20: 1618141589
+      castle-4354-ezgif.com-crop (2)_21: 1715043247
+      castle-4354-ezgif.com-crop (2)_22: 945349492
+      castle-4354-ezgif.com-crop (2)_23: 650235626
+      castle-4354-ezgif.com-crop (2)_24: 2100257301
+      castle-4354-ezgif.com-crop (2)_25: 370179314
+      castle-4354-ezgif.com-crop (2)_26: 804365762
+      castle-4354-ezgif.com-crop (2)_27: 1503951124
+      castle-4354-ezgif.com-crop (2)_28: -570153894
+      castle-4354-ezgif.com-crop (2)_29: -618288437
+      castle-4354-ezgif.com-crop (2)_3: -374230407
+      castle-4354-ezgif.com-crop (2)_30: -1937128378
+      castle-4354-ezgif.com-crop (2)_31: 2099396433
+      castle-4354-ezgif.com-crop (2)_32: -861035777
+      castle-4354-ezgif.com-crop (2)_33: 686206985
+      castle-4354-ezgif.com-crop (2)_34: -401172901
+      castle-4354-ezgif.com-crop (2)_35: 249548622
+      castle-4354-ezgif.com-crop (2)_36: -2142599579
+      castle-4354-ezgif.com-crop (2)_37: -57986069
+      castle-4354-ezgif.com-crop (2)_38: -1853327151
+      castle-4354-ezgif.com-crop (2)_39: -1549679226
+      castle-4354-ezgif.com-crop (2)_4: -19298554
+      castle-4354-ezgif.com-crop (2)_40: 573764025
+      castle-4354-ezgif.com-crop (2)_41: 1976741962
+      castle-4354-ezgif.com-crop (2)_42: -1008622656
+      castle-4354-ezgif.com-crop (2)_43: 1165154383
+      castle-4354-ezgif.com-crop (2)_44: -1014040304
+      castle-4354-ezgif.com-crop (2)_45: 1089081524
+      castle-4354-ezgif.com-crop (2)_46: 1565483550
+      castle-4354-ezgif.com-crop (2)_47: -1923072038
+      castle-4354-ezgif.com-crop (2)_48: 437312608
+      castle-4354-ezgif.com-crop (2)_49: 1315877488
+      castle-4354-ezgif.com-crop (2)_5: 1805007789
+      castle-4354-ezgif.com-crop (2)_50: -497216489
+      castle-4354-ezgif.com-crop (2)_51: 254463886
+      castle-4354-ezgif.com-crop (2)_52: -1490986384
+      castle-4354-ezgif.com-crop (2)_53: 1025478247
+      castle-4354-ezgif.com-crop (2)_54: -114602732
+      castle-4354-ezgif.com-crop (2)_55: 695780007
+      castle-4354-ezgif.com-crop (2)_56: 1600726031
+      castle-4354-ezgif.com-crop (2)_57: -28449167
+      castle-4354-ezgif.com-crop (2)_58: 819786758
+      castle-4354-ezgif.com-crop (2)_59: -726495776
+      castle-4354-ezgif.com-crop (2)_6: 1614111257
+      castle-4354-ezgif.com-crop (2)_60: -831219946
+      castle-4354-ezgif.com-crop (2)_61: -1541977672
+      castle-4354-ezgif.com-crop (2)_62: 640707905
+      castle-4354-ezgif.com-crop (2)_63: -1992561697
+      castle-4354-ezgif.com-crop (2)_7: 1165164602
+      castle-4354-ezgif.com-crop (2)_8: -1846741976
+      castle-4354-ezgif.com-crop (2)_9: -461229868
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
